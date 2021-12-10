@@ -13,15 +13,10 @@ I'm also a huge modular synth nerd and a darksynth addict.
 
  
 💻 : my daily OS : Arch, macOs 
-
 🚀 : I write in { `.sh` | `.py` | `.js` | `.dart` | `.php` | `.c` }
-
 ⌨️ : IDE → vim 
-
 ⚔️ : personal website : *in construction*
-
 🎹 : hobbies include music, painting, and photographie
-
 🐱 : cat owner and pet lover
 
 ### contact me
@@ -35,4 +30,4 @@ const Vincent_vst = {
 }
 ```
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Vincent-vst&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
