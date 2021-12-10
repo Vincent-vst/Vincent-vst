@@ -30,6 +30,3 @@ const Vincent_vst = {
 }
 ```
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-vst&layout=compact)]('stats')
