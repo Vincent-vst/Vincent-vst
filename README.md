@@ -12,12 +12,12 @@ I'm also a huge modular synth nerd and a darksynth addict.
 ### working with
 
  
-💻 : my daily OS : Arch, macOs 
-🚀 : I write in { `.sh` | `.py` | `.js` | `.dart` | `.php` | `.c` }
-⌨️ : IDE → vim 
-⚔️ : personal website : *in construction*
-🎹 : hobbies include music, painting, and photographie
-🐱 : cat owner and pet lover
+💻 : my daily OS : Arch, macOs   
+🚀 : I write in { `.sh` | `.py` | `.js` | `.dart` | `.php` | `.c` }   
+⌨️ : IDE → vim    
+⚔️ : personal website : *in construction*   
+🎹 : hobbies include music, painting, and photographie   
+🐱 : cat owner and pet lover   
 
 ### contact me
 
@@ -29,5 +29,7 @@ const Vincent_vst = {
 	gitlab : '@Vincent200'
 }
 ```
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-vst&layout=compact)]('stats')
