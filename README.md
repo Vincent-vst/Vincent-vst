@@ -14,14 +14,14 @@ I'm also a huge modular synth nerd and a darksynth addict.
 🚀 : I write in { `.sh` | `.py` | `.js` | `.dart` | `.php` | `.c` }   
 ⌨️ : IDE → vim    
 ⚔️ : personal website : *in construction*   
-🎹 : hobbies include music, painting, and photographie   
+🎹 : hobbies include music, painting, and photography   
 🐱 : cat owner and pet lover   
 
 ### contact me
 
 ```jsx
 const Vincent_vst = {
-	website : 'in-construction.com',
+	website : 'https://vincent-vst.github.io', 
 	author : 'Vincent-vst',
 	twitter : '@yutomusic5', 
 	gitlab : '@Vincent200'
