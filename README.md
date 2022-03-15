@@ -13,7 +13,7 @@ I'm also a huge modular synth nerd and a darksynth addict.
 💻 : my daily OS : Arch, macOs   
 🚀 : I write in { `.sh` | `.py` | `.js` | `.dart` | `.php` | `.c` }   
 ⌨️ : IDE → vim    
-⚔️ : personal website : *in construction*   
+⚔️ : personal website : https://vincent-vst.github.io   
 🎹 : hobbies include music, painting, and photography   
 🐱 : cat owner and pet lover   
 
