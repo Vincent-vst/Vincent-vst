@@ -5,7 +5,7 @@
  
 Hi, i'm vincent - a sound designer and FM synth enthusiast.   
 Currently working on multiple open source projects.    
-I'm also a huge modular synth nerd and a darksynth addict.  
+
 
 ### working with
 
@@ -22,7 +22,7 @@ I'm also a huge modular synth nerd and a darksynth addict.
 ```jsx
 const Vincent_vst = {
 	website : 'https://vincent-vst.github.io', 
-	author : 'Vincent-vst',
+	github : 'Vincent-vst',
 	twitter : '@yutomusic5', 
 	gitlab : '@Vincent200'
 }
