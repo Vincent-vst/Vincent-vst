@@ -13,7 +13,8 @@ Currently working on multiple open source projects.
 💻 : my daily OS : Arch, macOs   
 🚀 : I write in { `.sh` | `.py` | `.js` | `.dart` | `.php` | `.c` }   
 ⌨️ : IDE → vim    
-⚔️ : personal website : https://vincent-vst.github.io   
+⚔️ : personal website : https://vincent-vst.fr   
+📫 : my SMTP : contact@vincent-vst.fr   
 🎹 : hobbies include music, painting, and photography   
 🐱 : cat owner and pet lover   
 
@@ -21,10 +22,10 @@ Currently working on multiple open source projects.
 
 ```jsx
 const Vincent_vst = {
-	website : 'https://vincent-vst.github.io', 
+	website : 'https://vincent-vst.fr',  
+	email : 'contact@vincent-vst.fr',  
 	github : 'Vincent-vst',
-	twitter : '@yutomusic5', 
-	gitlab : '@Vincent200'
+	twitter : '@yutomusic5',  
 }
 ```
 
