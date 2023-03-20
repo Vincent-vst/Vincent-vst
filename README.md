@@ -24,8 +24,7 @@ Currently working on multiple open source projects.
 const Vincent_vst = {
 	website : 'https://vincent-vst.fr',  
 	email : 'contact@vincent-vst.fr',  
-	github : 'Vincent-vst',
-	twitter : '@yutomusic5',  
+	github : 'Vincent-vst'
 }
 ```
 
