@@ -11,7 +11,7 @@ Currently working on multiple open source projects.
 
  
 💻 : my daily OS : Arch, macOs   
-🚀 : I write in { `.sh` | `.py` | `.js` | `.dart` | `.php` | `.c` }   
+🚀 : I write in { `.sh` | `.py` | `.js` }   
 ⌨️ : IDE → vim    
 ⚔️ : personal website : https://vincent-vst.fr   
 📫 : my SMTP : contact@vincent-vst.fr   
