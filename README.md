@@ -3,8 +3,8 @@
 ### whoami
 
  
-Hi, i'm vincent - a sound designer and FM synth enthusiast.   
-Currently working on multiple open source projects.    
+Hi, I'm vincent - a {web | python} dev.    
+I am currently working on multiple open source projects.     
 
 
 ### working with
@@ -15,7 +15,7 @@ Currently working on multiple open source projects.
 ⌨️ : IDE → vim    
 ⚔️ : personal website : https://vincent-vst.fr   
 📫 : my SMTP : contact@vincent-vst.fr   
-🎹 : hobbies include music, painting, and photography   
+🎹 : hobbies include music, painting, and editing wikipedia   
 🐱 : cat owner and pet lover   
 
 ### contact me
